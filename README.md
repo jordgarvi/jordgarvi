@@ -20,12 +20,14 @@ This portfolio is structured to reflect how modern IT support teams operate:
 
 ## Example Ticket (Quick View)
 
-**User Permission Error (Access Issue)**  
-- Diagnosed access failure due to incorrect NTFS permissions  
-- Verified user group membership and applied correct permissions  
-- Restored access and confirmed resolution  
+**DNS Resolution Failure**  
+- Investigated a workstation that appeared connected to the network but could not load websites or connect to cloud services  
+- Confirmed internet connectivity by testing communication to an external IP address  
+- Used `ping` and `nslookup` to isolate the fault to DNS resolution  
+- Identified an invalid DNS server configuration, with IPv6 fallback initially masking the issue  
+- Restored service by correcting DNS settings and verifying successful domain resolution  
 
-👉 [View full ticket](https://github.com/jordgarvi/real-world-it-ticket-simulation-lab/blob/main/tickets/05-user-permission-error.md)
+👉 [View full ticket](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/tickets/06%E2%80%93dns-resolution-failure.md)
 
 ---
 
