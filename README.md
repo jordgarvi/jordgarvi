@@ -68,7 +68,7 @@ This portfolio is structured to align with service desk practices:
 - Ticket-based workflow  
 - Escalation handling  
 
-👉 [View SLA & Priority Matrix](docs/sla-priority-matrix.md)
+👉 [View SLA & Priority Matrix](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/sla-priority-matrix.md)
 
 ---
 
