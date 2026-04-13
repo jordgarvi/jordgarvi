@@ -1,44 +1,17 @@
-# Hi, I'm Jordan — IT Support Technician | Windows | Microsoft 365 | Networking | Service Desk Operations
+# Hi, I'm Jordan — IT Support | Service Desk | Windows | Microsoft 365 | Networking
 
-I focus on first-line / service desk IT support, with hands-on experience troubleshooting Windows environments, Microsoft 365, and network-related issues within structured ticketing workflows.
+I am transitioning into a first-line IT support / service desk role, with hands-on experience troubleshooting Windows environments, Microsoft 365, and networking issues within structured ticketing workflows.
 
-This portfolio contains 15+ structured ticket scenarios and supporting documentation designed to reflect real service desk operations.
-
----
-
-## Simulated Service Desk Environment
-
-This portfolio is structured to reflect how modern IT support teams operate:
-
-- Ticket-based incident management (15+ scenarios)  
-- SLA-driven prioritisation and response thinking  
-- Knowledge base documentation for repeat issues  
-- Structured workflows: Investigation → Resolution → Verification  
-- Focus on clear communication and user impact  
+This portfolio is built to reflect how modern IT support teams operate, focusing on clear troubleshooting, documentation, and user-focused resolution.
 
 ---
 
-## Example Ticket (Quick View)
+## Start Here (Recommended)
 
-**DNS Resolution Failure**  
-- Investigated a workstation that appeared connected to the network but could not load websites or connect to cloud services  
-- Confirmed internet connectivity by testing communication to an external IP address  
-- Used `ping` and `nslookup` to isolate the fault to DNS resolution  
-- Identified an invalid DNS server configuration, with IPv6 fallback initially masking the issue  
-- Restored service by correcting DNS settings and verifying successful domain resolution  
+If you're reviewing this portfolio, start with the items below to see how I approach real support scenarios.
 
-👉 [View full ticket](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/tickets/06%E2%80%93dns-resolution-failure.md)
-
----
-
-## Featured IT Support Projects (Start Here — Recommended)
-
-If you're reviewing this portfolio, start with the Windows ticket simulations below to see structured troubleshooting in a service desk context.
-
-### Windows IT Support Ticket Simulations  
-Windows 11 | Permissions | Outlook | OneDrive | VPN | Printing | M365  
-
-A structured collection of IT support tickets simulating real service desk scenarios.
+### 1. Windows IT Support Ticket Simulations (Primary Project)  
+A structured collection of IT support tickets covering common service desk issues across Windows, Microsoft 365, networking, and user access.
 
 Each ticket includes:
 - Problem simulation  
@@ -47,16 +20,45 @@ Each ticket includes:
 - Resolution and verification  
 - Supporting screenshots  
 
-https://github.com/jordgarvi/windows-ticket-simulations
+👉 https://github.com/jordgarvi/windows-ticket-simulations
 
 ---
 
-### Real-World IT Ticket Simulation Lab (Linux & Networking)  
-Linux | DNS | DHCP | Routing | Firewall | Connectivity | CLI troubleshooting  
+### 2. Example Case Study – DNS Resolution Failure  
+A structured troubleshooting scenario demonstrating layered network diagnosis and root cause identification.
 
-Hands-on technical lab focused on diagnosing and resolving system and network issues.
+- Confirmed connectivity using IP-based testing  
+- Isolated DNS failure using `ping` and `nslookup`  
+- Identified incorrect DNS configuration  
+- Discovered IPv6 fallback masking the issue  
+- Restored service and verified resolution  
 
-https://github.com/jordgarvi/real-world-it-ticket-simulation-lab
+👉 https://github.com/jordgarvi/windows-ticket-simulations/blob/master/tickets/06-dns-resolution-failure.md
+
+---
+
+### 3. Knowledge Base (Reusable Solutions)  
+A structured knowledge base documenting repeatable fixes for common IT support issues.
+
+Includes:
+- Networking issues (DNS, connectivity)  
+- Microsoft 365 issues (Outlook, OneDrive)  
+- System issues (printing, permissions)  
+- VPN troubleshooting  
+
+👉 https://github.com/jordgarvi/windows-ticket-simulations/tree/master/knowledge-base
+
+---
+
+## Simulated Service Desk Environment
+
+This portfolio is structured to align with service desk practices:
+
+- Ticket-based incident management (15+ scenarios)  
+- Structured workflows: Investigation → Resolution → Verification  
+- Knowledge base documentation for repeat issues  
+- Focus on user impact and clear communication  
+- Escalation awareness and troubleshooting boundaries  
 
 ---
 
@@ -64,7 +66,7 @@ https://github.com/jordgarvi/real-world-it-ticket-simulation-lab
 
 ### IT Support & Troubleshooting
 - Incident diagnosis and resolution  
-- User access and permissions (NTFS)  
+- User access and NTFS permissions  
 - Outlook, OneDrive, and application issues  
 - Printer and device troubleshooting  
 - Root cause analysis and verification  
@@ -76,9 +78,9 @@ https://github.com/jordgarvi/real-world-it-ticket-simulation-lab
 - Cloud-based authentication  
 
 ### Networking Fundamentals
-- DNS, DHCP, and IP configuration issues  
+- DNS, DHCP, and IP configuration  
 - Connectivity troubleshooting  
-- Firewall and VPN basics  
+- VPN and firewall basics  
 
 ### Tools & Technologies
 - Windows 10/11  
@@ -122,6 +124,6 @@ GitHub: https://github.com/jordgarvi
 
 ## Final Note
 
-This portfolio is designed to demonstrate how I approach IT support in practice — from initial user report through to resolution and verification.
+This portfolio demonstrates how I approach IT support in practice, from initial user report through to structured investigation, resolution, and verification.
 
-If you're hiring for an IT support role, reviewing the ticket simulations will provide a clear view of my troubleshooting process and documentation standards.
+It is designed to reflect real service desk workflows and provide a clear view of my troubleshooting approach.
