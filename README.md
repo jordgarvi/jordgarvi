@@ -62,6 +62,16 @@ This portfolio is structured to align with service desk practices:
 
 ---
 
+## Service Desk Practices
+
+- SLA and priority matrix (P1–P4)  
+- Ticket-based workflow  
+- Escalation handling  
+
+👉 [View SLA & Priority Matrix](docs/sla-priority-matrix.md)
+
+---
+
 ## Core Skills Demonstrated
 
 ### IT Support & Troubleshooting
