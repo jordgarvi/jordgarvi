@@ -68,8 +68,8 @@ This portfolio is structured to align with service desk practices:
 - Ticket lifecycle and workflow  
 - Escalation handling and documentation standards  
 
-👉 [View SLA & Priority Matrix](docs/sla-priority-matrix.md)  
-👉 [View Service Desk Workflow](docs/service-desk-workflow.md)
+👉 [View SLA & Priority Matrix](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/sla-priority-matrix.md)  
+👉 [View Service Desk Workflow](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/service-desk-workflow.md)
 
 ---
 
