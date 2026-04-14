@@ -65,6 +65,17 @@ This portfolio is structured to align with service desk practices:
 ## Service Desk Practices
 
 - SLA and priority matrix (P1–P4)  
+- Ticket lifecycle and workflow  
+- Escalation handling and documentation standards  
+
+👉 [View SLA & Priority Matrix](docs/sla-priority-matrix.md)  
+👉 [View Service Desk Workflow](docs/service-desk-workflow.md)
+
+---
+
+## Service Desk Practices
+
+- SLA and priority matrix (P1–P4)  
 - Ticket-based workflow  
 - Escalation handling  
 
