@@ -8,9 +8,9 @@ This portfolio is built to reflect how modern IT support teams operate, focusing
 
 ## Start Here (Recommended)
 
-If you're reviewing this portfolio, start with the items below to see how I approach real support scenarios.
+If you're reviewing this portfolio, start with the items below to see how I approach structured support scenarios and service desk workflows.
 
-### 1. Windows IT Support Ticket Simulations (Primary Project)  
+### 1. Windows Service Desk Lab (Primary Project)  
 A structured collection of IT support tickets covering common service desk issues across Windows, Microsoft 365, networking, and user access.
 
 Each ticket includes:
@@ -20,7 +20,7 @@ Each ticket includes:
 - Resolution and verification  
 - Supporting screenshots  
 
-👉 https://github.com/jordgarvi/windows-ticket-simulations
+👉 https://github.com/jordgarvi/windows-service-desk-lab
 
 ---
 
@@ -33,7 +33,7 @@ A structured troubleshooting scenario demonstrating layered network diagnosis an
 - Discovered IPv6 fallback masking the issue  
 - Restored service and verified resolution  
 
-👉 https://github.com/jordgarvi/windows-ticket-simulations/blob/master/tickets/06-dns-resolution-failure.md
+👉 https://github.com/jordgarvi/windows-service-desk-lab/blob/master/tickets/06-dns-resolution-failure.md
 
 ---
 
@@ -46,7 +46,7 @@ Includes:
 - System issues (printing, permissions)  
 - VPN troubleshooting  
 
-👉 https://github.com/jordgarvi/windows-ticket-simulations/tree/master/knowledge-base
+👉 https://github.com/jordgarvi/windows-service-desk-lab/tree/master/knowledge-base
 
 ---
 
@@ -68,18 +68,8 @@ This portfolio is structured to align with service desk practices:
 - Ticket lifecycle and workflow  
 - Escalation handling and documentation standards  
 
-👉 [View SLA & Priority Matrix](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/sla-priority-matrix.md)  
-👉 [View Service Desk Workflow](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/service-desk-workflow.md)
-
----
-
-## Service Desk Practices
-
-- SLA and priority matrix (P1–P4)  
-- Ticket-based workflow  
-- Escalation handling  
-
-👉 [View SLA & Priority Matrix](https://github.com/jordgarvi/windows-ticket-simulations/blob/master/docs/sla-priority-matrix.md)
+👉 [View SLA & Priority Matrix](https://github.com/jordgarvi/windows-service-desk-lab/blob/master/docs/sla-priority-matrix.md)  
+👉 [View Service Desk Workflow](https://github.com/jordgarvi/windows-service-desk-lab/blob/master/docs/service-desk-workflow.md)
 
 ---
 
@@ -147,4 +137,4 @@ GitHub: https://github.com/jordgarvi
 
 This portfolio demonstrates how I approach IT support in practice, from initial user report through to structured investigation, resolution, and verification.
 
-It is designed to reflect real service desk workflows and provide a clear view of my troubleshooting approach.
+It is designed to reflect structured service desk workflows and provide a clear view of my troubleshooting approach.
